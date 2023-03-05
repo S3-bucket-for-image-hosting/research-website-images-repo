@@ -2,7 +2,7 @@
 
 [IMAGE URL](https://s3-bucket-for-image-hosting.github.io/research-website-images-repo/assets/images/image110.png)
 
-## Quick hack to hosting files in GitHub
+## how to host images on github | Quick hack to hosting files in GitHub
 
 How to do this step by step
 
